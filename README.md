@@ -1,5 +1,6 @@
 <h1 align="center">Olá 👋, eu sou Renato Junior</h1>
 <h3 align="center">Full Stack developer 🌐</h3>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=iannimuliterno&label=Profile%20views&color=0e75b6&style=flat" alt="renatojunior94" /> </p>
 
 <!-- <h4 align="center">- 🌱 Atualmente estou aprendendo...</h4> -->
 <!--
