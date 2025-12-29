@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, eu sou Renato Junior</h1>
-<h3 align="center">Full Stack developer 🌐</h3>
+<h3 align="center">Full Stack web developer 🌐</h3>
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=renatojunior94&label=Profile%20views&color=0e75b6&style=flat" alt="renatojunior94" /> </p> -->
 <div align="center">
   
